@@ -4,19 +4,189 @@ title: Calendar
 uid: bbdda3ea-0ac1-959c-03de-396bcf80c6ce
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Designing Curriculum for Commercial Off the Shelf Games | &nbsp; |
-| 3 | Multiplayer Games | &nbsp; |
-| 4 | Game Curriculum Presentations | Game Curriculum Paper due |
-| 5 | Board Games | &nbsp; |
-| 6 | Board Games (cont.) | Board Game Prototype due |
-| 7 | Board Games (cont.) | Gamer Profile Paper due |
-| 8 | Board Game Presentations | Board Game & Documentation due |
-| 9 | Digital Games | &nbsp; |
-| 10 | Digital Games (cont.) | Digital Games Prototype due |
-| 11 | Digital Games (cont.) | &nbsp; |
-| 12 | Digital Games (cont.) | &nbsp; |
-| 13 | Digital Games (cont.) | &nbsp; |
-| 14 | Digital Games Presentations | Digital Game & Documentation due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Designing Curriculum for Commercial Off the Shelf Games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Multiplayer Games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Game Curriculum Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Game Curriculum Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Board Games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Board Games (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Board Game Prototype due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Board Games (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Gamer Profile Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Board Game Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Board Game & Documentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Games (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Games Prototype due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Games (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Games (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Games (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Games Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Game & Documentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
