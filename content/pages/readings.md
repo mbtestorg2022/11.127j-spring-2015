@@ -70,7 +70,7 @@ Designing Curriculum for Commercial Off the Shelf Games
 
 Duncan, Sean. "[Fiasco and Failure: Uncovering Hidden Rules in a Story Game](http://press.etc.cmu.edu/content/volume-3-number-1)." _Well Played: A Journal on Video Games, Value and Meaning_ 3, no. 1 (2014): 11-32.
 
-Nealen, Andrew. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ascension: A Case Study in Deck Building Games." (PDF - 1.1MB)](http://www.nealen.net/ascension.pdf) Digital Games Research Association (DiGRA), 2013.
+Nealen, Andrew. ["Ascension: A Case Study in Deck Building Games." (PDF - 1.1MB)](http://www.nealen.net/ascension.pdf) Digital Games Research Association (DiGRA), 2013.
 
 Duncan, Sean. "[Minecraft, Beyond Construction & Survival](http://dl.acm.org/citation.cfm?id=2207097)." _Well Played: A Journal on Video Games, Value and Meaning_ 1, no. 1 (2011): 1–22.
 
@@ -190,7 +190,7 @@ Nicholson, Scott. "[From Settlers to Quarriors: Breaking up the Monopoly with Mo
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514880) Bogost. "Procedural Rhetoric." In _Persuasive Games: The Expressive Power of Videogames._ MIT Press, 2010. ISBN: 9780262514880.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515658)  Salen, Katie, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Game Based Learning & Knowing." In _Quest to Learn: Developing the School for Digital Kids_. The John D. and Catherine T. MacArthur Foundation Reports on Digital Media and Learning. MIT Press, 2010. ISBN: 9780262515658. \[[Free download](https://mitpress.mit.edu/9780262515658) available\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515658)  Salen, Katie, et al. "Game Based Learning & Knowing." In _Quest to Learn: Developing the School for Digital Kids_. The John D. and Catherine T. MacArthur Foundation Reports on Digital Media and Learning. MIT Press, 2010. ISBN: 9780262515658. \[[Free download](https://mitpress.mit.edu/9780262515658) available\]
 
 
 {{< tdclose >}}
@@ -222,9 +222,9 @@ Pulsipher, Lewis. "[Characteristics of Boards](http://gamasutra.com/blogs/LewisP
 
 ### Presentations
 
-Joplin, Laura. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[On Defining Experiential Education](http://jee.sagepub.com/content/4/1/17.short?rss=1&ssource=mfc)." Journal of Experiential Education 4, no. 1 (1981): 17-20.
+Joplin, Laura. "[On Defining Experiential Education](http://jee.sagepub.com/content/4/1/17.short?rss=1&ssource=mfc)." Journal of Experiential Education 4, no. 1 (1981): 17-20.
 
-McGonigal, Jane. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Why I _Love Bees_: A Case Study in Collective Intelligence Gaming." (PDF)](http://www.avantgame.com/McGonigal_WhyILoveBees_Feb2007.pdf) _The Ecology of Games: Connecting Youth, Games, and Learning_ (2008): 199–228.
+McGonigal, Jane. ["Why I _Love Bees_: A Case Study in Collective Intelligence Gaming." (PDF)](http://www.avantgame.com/McGonigal_WhyILoveBees_Feb2007.pdf) _The Ecology of Games: Connecting Youth, Games, and Learning_ (2008): 199–228.
 
 
 {{< tdclose >}}
@@ -364,7 +364,7 @@ Digital Games (cont.)
 
 ### Readings Due
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A-Games Educator Survey." (PDF - 9.7MB)](http://gamesandlearning.umich.edu/wp-content/uploads/2014/11/A-GAMES-Part-I_A-National-Survey.pdf) NYU Steinhardt School of Culture, Education, and Human Development, and University of Michigan School of Learning. 2014.
+["A-Games Educator Survey." (PDF - 9.7MB)](http://gamesandlearning.umich.edu/wp-content/uploads/2014/11/A-GAMES-Part-I_A-National-Survey.pdf) NYU Steinhardt School of Culture, Education, and Human Development, and University of Michigan School of Learning. 2014.
 
 
 {{< tdclose >}}
@@ -378,7 +378,7 @@ Digital Games (cont.)
 Digital Games (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Zimmerman, Eric. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)[Play as Research: The Iterative Design Process (PDF - 5.2MB)](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)." 2003.
+Zimmerman, Eric. "[](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)[Play as Research: The Iterative Design Process (PDF - 5.2MB)](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)." 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +428,7 @@ Digital Games (cont.)
 {{< tdopen >}}
 
 
-Wilson, Douglas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Designing for the Pleasures of Disputation." (PDF - 6.2MB)](https://pure.itu.dk/ws/files/41411002/Thesis_received_120927_Designing_for_the_Pleasures_of_Disputation_v3.pdf) 2012.
+Wilson, Douglas. ["Designing for the Pleasures of Disputation." (PDF - 6.2MB)](https://pure.itu.dk/ws/files/41411002/Thesis_received_120927_Designing_for_the_Pleasures_of_Disputation_v3.pdf) 2012.
 
 Consalvo, Mia. "[Cheating Can Be Good For You: Educational Games and Multiple Playstyles](https://dl.acm.org/citation.cfm?id=1594216)." In _Beyond Fun: Serious Games and Media_. ETC Press, 2007.
 

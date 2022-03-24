@@ -17,7 +17,7 @@ Board Games
 
 [Game Board (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_board) 
 
-Game Pieces: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Enzyme Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_enzyme), ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Event Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_event), and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Multiplier Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_multiply)
+Game Pieces: [Enzyme Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_enzyme), [Event Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_event), and [Multiplier Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_multiply)
 
 [Game History (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_history)
 
@@ -25,7 +25,7 @@ Game Pieces: ![This resource may not render correctly in a screen reader.](/imag
 
 [Game Instructions (PDF)]({{< baseurl >}}/resources/mit11_127js15_esc_instruct)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Game Pieces (PDF)]({{< baseurl >}}/resources/mit11_127js15_esc_pieces)
+[Game Pieces (PDF)]({{< baseurl >}}/resources/mit11_127js15_esc_pieces)
 
 ### Take the Cake
 
